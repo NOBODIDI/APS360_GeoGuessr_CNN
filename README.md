@@ -15,6 +15,7 @@
 ├── testing/: distance computation and output visualization code
 │   ├── Collect_Image_Filenames_in_Dataset.ipynb
 │   ├── Distance_Computation_and_Visualizations.ipynb
+│   ├── Confusion_Matrix.ipynb
 ```
 
 ## How to run
