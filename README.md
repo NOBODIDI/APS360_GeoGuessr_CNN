@@ -26,3 +26,6 @@
 This ML project is based off the [ResNet 50 architecture](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html) available on PyTorch.
 
 ![This is an image](https://miro.medium.com/max/1400/0*9LqUp7XyEx1QNc6A.webp)
+
+## Video Demo of AI GeoGuessr
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/BbcyZr8XOnY&ab_channel=AdrienMery/0.jpg)](http://www.youtube.com/watch?v=BbcyZr8XOnY&ab_channel=AdrienMery "Video Title")
