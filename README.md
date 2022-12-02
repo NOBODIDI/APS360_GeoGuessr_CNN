@@ -2,17 +2,17 @@
 
 ## Directory Structure
 ```
-├── **baseline**
+├── baseline/
 │   ├── KNN_model.ipynb
-├── **data_processing**: data acquisition and processing code
+├── data_processing/: data acquisition and processing code
 │   ├── Creating_Train_Val_Test_Split.ipynb
 │   ├── api_request_signature.py
 │   ├── geocell_imagery_sampling.py
 │   ├── imagery_download.py
-├── **primary_model**
+├── primary_model/
 │   ├── TRAINING_TEMPLATE.ipynb
 │   ├── /hyperparameter-tuning: includes all of the model training results
-├── **testing**: distance computation and output visualization code
+├── testing/: distance computation and output visualization code
 │   ├── Collect_Image_Filenames_in_Dataset.ipynb
 │   ├── Distance_Computation_and_Visualizations.ipynb
 ```
