@@ -11,7 +11,7 @@
 │   ├── imagery_download.py
 ├── primary_model
 │   ├── TRAINING_TEMPLATE.ipynb
-│   │   ├── **/*.css
+│   │   ├── gg
 │   ├── images
 │   ├── js
 │   ├── index.html
