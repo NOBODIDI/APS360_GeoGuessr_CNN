@@ -1,7 +1,7 @@
 # APS360_GeoGuessr_NN
 
 ## Directory Structure
-
+```
 ├── baseline
 │   ├── KNN_model.ipynb
 ├── data_processing: data acquisition and processing code
@@ -20,6 +20,7 @@
 ├── package.json
 ├── package-lock.json 
 └── .gitignore
+```
 
 ## How to run
 - Download the dataset or create a shortcut to Drive at [32k_train_val_test](https://drive.google.com/drive/folders/102y3wVHae4freSFV7hmyzSAnypnjZGrD?usp=share_link) 
